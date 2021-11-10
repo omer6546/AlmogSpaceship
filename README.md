@@ -14,7 +14,7 @@ This game based on a game that belongs to:
 
 
 * Adding lives to the player and return him to the starting point in case a car hits him.
-* Adding 3 hearts in the left corner of the screen (when an enemy hits the player, 1 heart is removed).
+* Adding 3 hearts in the left corner of the screen (when an enemy hits the player, 1 heart is removed). [](https://github.com/omer6546/AlmogSpaceship/blob/main/Assets/Scripts/GameOverOnTrigger2D.cs)
 * Return the player to the starting point when an enemy hits the player.
 * Adding eudio to the game.
 </div>
